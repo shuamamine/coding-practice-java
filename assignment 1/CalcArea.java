@@ -4,6 +4,7 @@ class CalcArea
 	{
 		double ar=3.14*r*r;
 		System.out.println("Area of the Circle =" + ar);
+		
 		System.out.println("Perimeter of the Circle =" + (2*3.14*r));
 	}
 	public void area(double L, double B)
